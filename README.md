@@ -13,9 +13,9 @@ Essa análise tenta criar uma visualização para os dados da pandemia do COVID-
 
 ##### Bibliotecas utilizadas:
 Pandas: https://pandas.pydata.org/
+Matplotlib: https://matplotlib.org/
 
 #### Autor: 
-
 <a href="https://github.com/OHomemParede">Daniel de Souza Lima Junior</a>  
 3º Semestre - Análise e Desenvolvimento de Sistemas-FATEC São José dos Campos 2020
 
