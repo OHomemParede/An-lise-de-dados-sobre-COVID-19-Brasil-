@@ -7,3 +7,17 @@
 
 ##### Metodologia:
 > Essa análise tenta criar uma visualização para os dados da pandemia do COVID-19 no Brasil.
+
+##### Bibliotecas utilizadas:
+> Pandas: https://pandas.pydata.org/
+
+#### Autor: 
+
+<a href="https://github.com/OHomemParede">Daniel de Souza Lima Junior</a>  
+3º Semestre - Análise e Desenvolvimento de Sistemas-FATEC São José dos Campos 2020
+
+#### Orientador:
+<a href="https://github.com/fmasanori">Fernando Masanori</a>
+
+
+
